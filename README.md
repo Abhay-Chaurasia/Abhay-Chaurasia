@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me ...Dm me on Instagram @a6hay.ch
+- ⚡ Fun fact: I love creating content.
 
 <!---
 Abhay-Chaurasia/Abhay-Chaurasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
